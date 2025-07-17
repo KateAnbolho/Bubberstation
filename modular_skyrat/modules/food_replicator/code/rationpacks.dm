@@ -163,6 +163,7 @@
 	icon_state = "mre_package"
 	foldable_result = null
 	illustration = null
+	w_class = WEIGHT_CLASS_NORMAL
 
 /obj/item/storage/box/colonial_rations/Initialize(mapload)
 	. = ..()
