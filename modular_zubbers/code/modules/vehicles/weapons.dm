@@ -5,8 +5,8 @@
 	equip_cooldown = 25
 	projectile = obj/item/projectile/bullet
 	projetiles = 50
-	projectile_cache = 50
-	projectile_cache_max = 100
+	projectiles_cache = 50
+	projectiles_cache_max = 100
 	projectiles_per_shot = 1
 	variance = 6
 	harmful = TRUE
