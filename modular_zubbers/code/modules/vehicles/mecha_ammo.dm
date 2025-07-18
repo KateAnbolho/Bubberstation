@@ -1,4 +1,4 @@
-obj/item/mecha_ammo/ac5
+/obj/item/mecha_ammo/ac5
 	name = "autocannon ammo box"
 	desc = "A box of linked ammunition, designed for the AC 5 exosuit weapon."
 	icon_state = "scattershot"
