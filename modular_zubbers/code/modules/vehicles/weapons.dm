@@ -3,8 +3,8 @@
 	desc = "A heavy autocannon designed for use in mechs, capable of firing high-caliber rounds semi-automatically."
 	icon_state = "mecha_uac2"
 	equip_cooldown = 25
-	projectile = /obj/item/projectile/bullet
-	projetiles = 50
+	projectile = /obj/item/projectile/bullet/a223
+	projectiles = 50
 	projectiles_cache = 50
 	projectiles_cache_max = 100
 	projectiles_per_shot = 1
