@@ -246,8 +246,6 @@
 		"mech_scattershot_ammo",
 		"mech_carbine",
 		"mech_carbine_ammo",
-		"mech_heavycannon",
-		"mech_heavy_ammo",
 	)
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = TECHWEB_TIER_5_POINTS)
 	announce_channels = list(RADIO_CHANNEL_SCIENCE)

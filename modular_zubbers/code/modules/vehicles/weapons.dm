@@ -10,4 +10,4 @@
 	projectiles_per_shot = 1
 	variance = 6
 	harmful = TRUE
-	ammo_type = MECHA_AMMO_LMG
+	ammo_type = MECHA_AMMO_AC5
