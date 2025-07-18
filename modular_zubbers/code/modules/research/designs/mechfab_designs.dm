@@ -186,7 +186,7 @@
 	desc = "Ammunition for the AC 5 Autocannon."
 	id = "mech_ac_ammo"
 	build_type = MECHFAB
-	build_path = /obj/item/mecha_ammo/heavy_ammo
+	build_path = /obj/item/mecha_ammo/mech_heavy_ammo
 	materials = list(/datum/material/iron=SHEET_MATERIAL_AMOUNT*5)
 	construction_time = 2 SECONDS
 	category = list(
