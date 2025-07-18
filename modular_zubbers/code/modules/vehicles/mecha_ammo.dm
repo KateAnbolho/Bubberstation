@@ -4,4 +4,4 @@
 	icon_state = "scattershot"
 	custom_materials = list(/datum/material/iron = SHEET_MATERIAL_AMOUNT*4)
 	rounds = 50
-	ammo_type = MECHA_AMMO_AC5
+	ammo_type = MECHA_AMMO_LMG
