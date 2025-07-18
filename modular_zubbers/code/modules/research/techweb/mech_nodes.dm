@@ -1,4 +1,4 @@
-/datum/techweb_node/mech_firearms
+/datum/techweb_node/mech_firearms/New()
 	. = ..()
 	design_ids += list(
 		"mech_heavycannon",
