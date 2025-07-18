@@ -1,8 +1,8 @@
 /obj/item/mecha_parts/mecha_equipment/weapon/ballistic/mech_heavycannon
-	name = "\improper AC 10 Autocannon\""
+	name = "\improper AC 10 Autocannon\"
 	desc = "A heavy autocannon designed for use in mechs, capable of firing high-caliber rounds semi-automatically."
 	icon_state = "mecha_uac2"
-	equip_cooldown = 25
+	equip_cooldown = 15
 	projectile = /obj/projectile/bullet/a223
 	projectiles = 50
 	projectiles_cache = 50
