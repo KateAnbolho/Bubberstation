@@ -163,8 +163,8 @@
 	)
 
 /datum/design/mech_heavycannon
-	name = "AC/10 Autocannon"
-	desc = "Allows for the construction of the AC/10 Autocannon."
+	name = "AC/5 Autocannon"
+	desc = "Allows for the construction of the AC/5 Autocannon."
 	id = "mech_heavycannon"
 	build_type = MECHFAB
 	build_path = /obj/item/mecha_parts/mecha_equipment/weapon/ballistic/mech_heavycannon
@@ -180,3 +180,21 @@
 	)
 	departmental_flags = DEPARTMENT_BITFLAG_SCIENCE
 
+
+/datum/design/mech_heavy_ammo
+	name = "AC 5 Autocannon Ammo"
+	desc = "Ammunition for the AC 5 Autocannon."
+	id = "mech_ac_ammo"
+	build_type = MECHFAB
+	build_path = obj/item/mecha_ammo/ac5
+	materials = list(/datum/material/iron=SHEET_MATERIAL_AMOUNT*5)
+	construction_time = 2 SECONDS
+	category = list(
+		RND_CATEGORY_MECHFAB_EQUIPMENT + RND_SUBCATEGORY_MECHFAB_EQUIPMENT_WEAPONS,
+		RND_CATEGORY_MECHFAB_PADDY + RND_SUBCATEGORY_MECHFAB_SUPPORTED_EQUIPMENT,
+		RND_CATEGORY_MECHFAB_GYGAX + RND_SUBCATEGORY_MECHFAB_SUPPORTED_EQUIPMENT,
+		RND_CATEGORY_MECHFAB_DURAND + RND_SUBCATEGORY_MECHFAB_SUPPORTED_EQUIPMENT,
+		RND_CATEGORY_MECHFAB_PHAZON + RND_SUBCATEGORY_MECHFAB_SUPPORTED_EQUIPMENT,
+		RND_CATEGORY_MECHFAB_HONK + RND_SUBCATEGORY_MECHFAB_SUPPORTED_EQUIPMENT
+	)
+	departmental_flags = DEPARTMENT_BITFLAG_SCIENCE
