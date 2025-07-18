@@ -1,4 +1,4 @@
-/obj/item/mecha_ammo/heavy_ammo
+/obj/item/mecha_ammo/mech_heavy_ammo
 	name = "autocannon ammo box"
 	desc = "A box of linked ammunition, designed for the AC 5 exosuit weapon."
 	icon_state = "incendiary"
