@@ -1,9 +1,8 @@
 /obj/item/gun/energy/e_gun/stun/tacticool
 	name = "tacticool energy gun"
 	desc = "An older edition of a tactical energy gun, clearly having not been maintained very well. The weapon's cell seems to be stressed extremely by it's taser."
-	icon_state = "tacegun"
-	icon = 'modular_zubbers/icons/obj/guns/tacticalenergygungrip.dmi'
-	inhand_icon_state = "energykill3"
+	icon_state = "energytac"
+	icon = 'modular_zubbers/icons/obj/weapons/guns/energy.dmi'
 	ammo_x_offset = 2
 	ammo_type = list(/obj/item/ammo_casing/energy/electrode/sec/tacticool, /obj/item/ammo_casing/energy/disabler/tacticool, /obj/item/ammo_casing/energy/laser/tacticool)
 	w_class = WEIGHT_CLASS_BULKY
