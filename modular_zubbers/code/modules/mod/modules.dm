@@ -57,3 +57,7 @@
 		mod.ai_assistant.key = wearer_key
 	ai_control = !ai_control
 
+/obj/item/mod/module/shooting_assistant/ert
+	name = "ert weapon assist MODule"
+	complexity = 0
+	removable = FALSE
