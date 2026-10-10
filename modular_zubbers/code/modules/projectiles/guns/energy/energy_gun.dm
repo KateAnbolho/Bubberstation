@@ -1,4 +1,4 @@
-/obj/item/gun/energy/tacticool
+/obj/item/gun/energy/e_gun/stun/tacticool
 	name = "tacticool energy gun"
 	desc = "An older edition of a tactical energy gun, clearly having not been maintained very well. The weapon's cell seems to be stressed extremely by it's taser."
 	icon_state = "tacegun"
