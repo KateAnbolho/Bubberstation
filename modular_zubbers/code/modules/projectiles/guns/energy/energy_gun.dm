@@ -21,6 +21,10 @@
 		overlay_x = 15, \
 		overlay_y = 10)
 
+/obj/item/gun/energy/e_gun/stun
+	icon_state = "energytac"
+	icon = 'modular_zubbers/icons/obj/weapons/guns/energy.dmi'
+
 /obj/item/gun/energy/e_gun/nuclear_smg
 	name = "advanced energy smg"
 	desc = "A self-charging dual-mode rapid-fire energy weapon created as a disgusting hybrid of a laser carbine, a disabler smg and an advanced energy gun. \
