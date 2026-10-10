@@ -13,18 +13,13 @@
 		/obj/item/ammo_box/magazine/m38 = 3)
 
 /datum/outfit/centcom/ert/medic
-	r_hand = /obj/item/gun/energy/e_gun/stun
+	l_hand = /obj/item/gun/energy/e_gun/stun
+	r_hand = /obj/item/storage/backpack/duffelbag/deforest_medkit/stocked
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
 
 /datum/outfit/centcom/ert/engineer
 	l_hand = /obj/item/gun/energy/e_gun/stun
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
-
-
-
-
-
-
 
 ///  MOD EQUIPMENT
 

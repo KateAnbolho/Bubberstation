@@ -58,6 +58,7 @@
 	ai_control = !ai_control
 
 /obj/item/mod/module/shooting_assistant/ert
-	name = "ert weapon assist MODule"
+	name = "ERT weapon assist MODule"
 	complexity = 0
 	removable = FALSE
+	desc = "A botched, experimental attempt to make Marine Corps grunts shoot more effectively, now gone private. Specificially designed for lower-impact in limited-equipment MODular suits. Can't be removed."
