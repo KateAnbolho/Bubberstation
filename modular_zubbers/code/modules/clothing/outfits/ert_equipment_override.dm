@@ -1,9 +1,9 @@
 /datum/outfit/centcom/ert/commander
-	l_hand = /obj/item/gun/energy/stun
+	l_hand = /obj/item/gun/energy/e_gun/stun
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
 
 /datum/outfit/centcom/ert/security
-	l_hand = /obj/item/gun/energy/stun
+	l_hand = /obj/item/gun/energy/e_gun/stun
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
 
 /datum/outfit/centcom/ert/security/alert
@@ -13,11 +13,11 @@
 		/obj/item/ammo_box/magazine/m38 = 3)
 
 /datum/outfit/centcom/ert/medic
-	l_hand = /obj/item/gun/energy/stun
+	r_hand = /obj/item/gun/energy/e_gun/stun
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
 
 /datum/outfit/centcom/ert/engineer
-	l_hand = /obj/item/gun/energy/stun
+	l_hand = /obj/item/gun/energy/e_gun/stun
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses/guard/medical
 
 
